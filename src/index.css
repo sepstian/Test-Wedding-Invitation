@@ -154,4 +154,8 @@ button.next {
   .txt_footer{
     font-size: 0.7rem !important;
   }
+  .box_sticky{
+    margin-top: -100px !important;
+    position: sticky !important;
+  }
 }
