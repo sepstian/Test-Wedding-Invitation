@@ -227,7 +227,7 @@ const WelcomingSection = (props) => {
             />
           </Box>
       </div>
-      <div style={{ height:"30vh" }}>
+      <div style={{ height:"25vh" }}>
         <Footer/>
       </div>
     </>
