@@ -90,7 +90,7 @@ const Index = () => {
           )}  
           <Navbar isOpen={navbarToggle}/>
         </Sidebar>
-        <div style={{ display:openToggle===false?"none":"flex" }} className='box_sticky'>
+        <div style={{ width:"25%", display:openToggle===false?"none":"flex" }} className='box_sticky'>
           <Button 
             className='circle_button'
             style={{ borderRadius:"50%", backgroundColor: '#997a5e', color: '#fff' }}
