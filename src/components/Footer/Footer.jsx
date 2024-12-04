@@ -11,7 +11,7 @@ const Footer = () => {
           Created with Love by Invitato
         </Link>
         <Link style={{ textAlign:"center" }} className="txt_footer" href="https://invitato.id/" fontSize="sm" _hover={{ textDecoration: "underline" }}>
-          Song by So Far, So Good - Don Williams
+          Song by Beautiful In White - Shane Filan
         </Link>
         <Text className="txt_footer" style={{ textAlign:"center" }} fontSize="sm">
           © 2024 Tiffany & Jared. All Rights Reserved
